@@ -1,0 +1,62 @@
+12:55:07: Executing external task 'signingReport'...
+Configuration on demand is an incubating feature.
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to E:\sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+Incremental java compilation is an incubating feature.
+:app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\vineesh.expose\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E3:6C:77:6A:90:CC:47:75:84:47:EB:02:60:1D:93:8F
+SHA1: 6A:6A:C5:85:FC:5A:AC:5E:01:7A:3C:41:0A:38:B7:40:7F:6B:3E:79
+Valid until: Friday, 19 July, 2047
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\vineesh.expose\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E3:6C:77:6A:90:CC:47:75:84:47:EB:02:60:1D:93:8F
+SHA1: 6A:6A:C5:85:FC:5A:AC:5E:01:7A:3C:41:0A:38:B7:40:7F:6B:3E:79
+Valid until: Friday, 19 July, 2047
+----------
+Variant: releaseUnitTest
+Config: config
+Store: G:\Drive\drive_KEY.jks
+Alias: drive
+MD5: 53:36:DC:E7:19:22:91:B4:7A:2E:80:D3:0A:55:81:E9
+SHA1: CB:88:8A:95:9F:95:C0:EA:99:2E:F9:11:3A:67:7F:15:83:98:DA:38
+Valid until: Tuesday, 28 October, 2042
+----------
+Variant: release
+Config: config
+Store: G:\Drive\drive_KEY.jks
+Alias: drive
+MD5: 53:36:DC:E7:19:22:91:B4:7A:2E:80:D3:0A:55:81:E9
+SHA1: CB:88:8A:95:9F:95:C0:EA:99:2E:F9:11:3A:67:7F:15:83:98:DA:38
+Valid until: Tuesday, 28 October, 2042
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\vineesh.expose\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E3:6C:77:6A:90:CC:47:75:84:47:EB:02:60:1D:93:8F
+SHA1: 6A:6A:C5:85:FC:5A:AC:5E:01:7A:3C:41:0A:38:B7:40:7F:6B:3E:79
+Valid until: Friday, 19 July, 2047
+----------
+
+BUILD SUCCESSFUL
+
+Total time: 2.077 secs
+12:55:09: External task execution finished 'signingReport'.
+
+
+
+
+
+CLIENT ID**********
+558550774967-k1kt66d2ek9t3c02237p9vhosonptr0b.apps.googleusercontent.com
+
+
